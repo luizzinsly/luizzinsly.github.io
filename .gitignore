@@ -1,0 +1,3 @@
+# PNGs originais (a página usa as versões .webp)
+img/*.png
+!img/og-image.png
